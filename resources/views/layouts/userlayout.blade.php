@@ -18,7 +18,7 @@
 
     @yield('custom-css')
 
-    <link rel="icon" href="{{  asset('/img/logo.svg')}}" />
+    <link rel="icon" href="{{ asset('assets/img/logo.svg') }}" />
     <title>UMKM Tangkisan</title>
 </head>
 
